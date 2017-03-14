@@ -1,3 +1,3 @@
 # Tugas 2 - Big Data 2016/2017
-Dewangga W. Winardi (5113100098)
-Yahya Eka Nugyasa (5113100134)
+5113100098 Dewangga W. Winardi <br/>
+5113100134 Yahya Eka Nugyasa
