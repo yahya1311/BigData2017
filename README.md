@@ -1,6 +1,5 @@
 # Tugas 6 - Big Data 2016/2017
-Collaborative Filtering (Versi Databricks): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/2668336517239426/4904958418568456/latest.html
-
+Collaborative Filtering (Versi Databricks): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/2668336517239426/4904958418568456/latest.html <br/>
 Movie Recommendation (Versi Databricks): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3987486811597229/1473099858055273/7095385990720558/latest.html
 
 # Tugas 5 - Big Data 2016/2017
