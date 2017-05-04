@@ -13,4 +13,4 @@
 5113100134 Yahya Eka Nugyasa : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/3277914822311697/4904958418568456/latest.html
 
 # Tugas 6 - Big Data 2016/2017
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2219399794502869/3734519989993013/1133007436902391/latest.html
+Collaborative Filtering: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/2668336517239426/4904958418568456/latest.html
