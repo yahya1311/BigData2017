@@ -1,4 +1,5 @@
 # Tugas 2 - Big Data 2016/2017
+5113100044 Ignatius Benedict (Belum Satu Kelompok) https://github.com/ignatius-bo/BigData2017/blob/master/AirlinesData-Windows.ipynb <br/>
 5113100098 Dewangga W. Winardi <br/>
 5113100134 Yahya Eka Nugyasa
 
@@ -8,9 +9,9 @@
 5113100134 Yahya Eka Nugyasa
 
 # Tugas 5 - Big Data 2016/2017
-5113100044 Ignatius Benedict <br/>
-5113100098 Dewangga W. Winardi : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3987486811597229/1742756113791583/7095385990720558/latest.html <br/>
-5113100134 Yahya Eka Nugyasa : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/3277914822311697/4904958418568456/latest.html
+5113100044 Ignatius Benedict: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4627550076906428/1875335619814114/7956173089673349/latest.html<br/>
+5113100098 Dewangga W. Winardi: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3987486811597229/1742756113791583/7095385990720558/latest.html <br/>
+5113100134 Yahya Eka Nugyasa: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/3277914822311697/4904958418568456/latest.html
 
 # Tugas 6 - Big Data 2016/2017
-Collaborative Filtering: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/2668336517239426/4904958418568456/latest.html
+Collaborative Filtering (Versi Databricks): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/2668336517239426/4904958418568456/latest.html
