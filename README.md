@@ -16,4 +16,4 @@
 # Tugas 6 - Big Data 2016/2017
 Collaborative Filtering (Versi Databricks): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/2668336517239426/4904958418568456/latest.html
 
-Movie Recommendation (Versi Spark Notebook): Ada di file "Tugas6" https://github.com/yahya1311/BigData2017/tree/master/Tugas6
+Movie Recommendation (Versi Spark Notebook): Ada di https://github.com/yahya1311/BigData2017/tree/master/Tugas6 file "Task2 (Versi Spark Notebook)"
