@@ -7,7 +7,7 @@
 # 7.2 <br/>
 5113100044 Ignatius Benedict: <br/>
 5113100098 Dewangga W. Winardi:  <br/>
-5113100134 Yahya Eka Nugyasa: 
+5113100134 Yahya Eka Nugyasa: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/3108657788098921/4904958418568456/latest.html
 
 # Tugas 6 - Big Data 2016/2017
 Collaborative Filtering (Versi Databricks): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4255934928102326/2668336517239426/4904958418568456/latest.html <br/>
